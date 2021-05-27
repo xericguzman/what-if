@@ -2,7 +2,7 @@
 
 Fork and clone this assignment to get started. You'll need to create several javascript files (one for each file listed below) according to the instructions below.
 
-## `old-enough.js`
+## `what-can-you-do.js`
 
 Write a program that prompts the user for their age using the `prompt-sync` Node dependency.
 
@@ -28,6 +28,7 @@ Write a program that prompts the user for a number, then displays the appropriat
 | 5 | Friday |
 | 6 | Saturday |
 | 7 | Sunday |
+| anything else | "error" |
 
 ## `group-sizes.js`
 
@@ -55,3 +56,9 @@ It should ask him what his earth weight is, and to enter a number for the planet
 | 6 |	Neptune |	1.23 |
 
 So, for example, if Julio weighs 128 lbs. on earth, then he would weigh just under 50 lbs. on Mars, since Mars' gravity is 0.39 times earth's gravity. (128 * 0.39 is 49.92).
+
+## `fizzbuzz.js`
+
+This is a classic interview question. Write a program that asks the user for a number. If the number is divisible by 3, the program logs "fizz". If the number is divisible by 5, log "buzz". If the number is divisible by 3 and 5, log "fizzbuzz".
+
+##
